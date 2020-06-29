@@ -1,0 +1,2 @@
+- site modelo hotel criado em curso.
+- usando HTML e CSS.

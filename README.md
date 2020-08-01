@@ -1,2 +1,6 @@
+# Projeto HTML e CSS
+
+## site modelo hotel criado em curso.
+
 - site modelo hotel criado em curso.
-- usando HTML e CSS.
+- HTML e CSS.
